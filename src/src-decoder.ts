@@ -1,4 +1,5 @@
 import path from 'path';
+
 import type { SolcOutput, SolcInput } from '../solc';
 import type { SrcDecoder } from '../utils';
 
